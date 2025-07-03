@@ -18,4 +18,4 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Giolii&theme=dark)
 
 ## 📫 Let's Connect
-- 💼 LinkedIn: [My Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/luigi-olianas123/))
+- 💼 LinkedIn: [My Profile]([https://www.linkedin.com/in/luigi-olianas123])
