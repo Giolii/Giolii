@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-stack+developer+%F0%9F%9A%80;Wherever+you+are,+be+there+totally;Stay+hungry,+stay+foolish" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Build.+Learn.+Improve.;Wherever+you+are,+be+there+totally.;The+obstacle+is+the+way." alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+## 🙋🏻  About Me
 
 ```javascript
 const developer = {
